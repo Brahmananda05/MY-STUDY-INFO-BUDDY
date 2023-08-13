@@ -170,11 +170,17 @@ a {
     padding: 10px 16px;
   }
 
-  .tittle{
+  /* .tittle{
     font-size: 16px;
-  }
+  } */
 
   /* .menu{
     height: 120px;
   } */
+}
+
+@media (width < 320px){
+  .tittle{
+    font-size: 16px;
+  }
 }
